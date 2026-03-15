@@ -1,5 +1,3 @@
-## [TL;DR: Investigated a scenario where Q1 order volumes grew 18% but revenue remained flat. Discovered that a "New User" marketing campaign offering flat ₹200 discounts drove a 50% spike in low-value orders, suppressing platform AOV by 20%. Recommended shifting focus from immediate revenue fixes to tracking Q2 Post-coupon Retention Rate and LTV:CAC ratios to evaluate the campaign's true ROI, while implementing a ₹500 minimum order floor for future campaigns.]
-
 # Case Study 01 — Zomato: The Invisible Revenue Leak
 
 **Company:** Zomato  
@@ -9,7 +7,9 @@
 **Status:** ✅ Complete
 
 ---
+**TL;DR** : Investigated a scenario where Q1 order volumes grew 18% but revenue remained flat. Discovered that a "New User" marketing campaign offering flat ₹200 discounts drove a 50% spike in low-value orders, suppressing platform AOV by 20%. Recommended shifting focus from immediate revenue fixes to tracking Q2 Post-coupon Retention Rate and LTV:CAC ratios to evaluate the campaign's true ROI, while implementing a ₹500 minimum order floor for future campaigns.
 
+---
 ## The Monday Morning Problem
 
 It's the first Monday of Q2. The Head of Growth walks up to the analyst's desk and drops a single sentence:
