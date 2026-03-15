@@ -31,7 +31,7 @@ Business Recommendation  (with trackable success metrics)
 | # | Company | Domain | Problem Statement | Business Impact | Status |
 |---|---------|--------|-------------------|-----------------|--------|
 | 01 | **Zomato** | Food Delivery | Order volume ↑18% but revenue flat — diagnose the leak | AOV suppressed 20% by discount campaign · ₹200 CAC per new user · Retention risk in Q2 | ✅ Complete |
-| 02 | **Myntra** | Fashion / Retail | Return rate has crossed 35% this quarter — margin is under pressure | High return rate eroding net revenue · fulfilment cost per returned unit directly impacts EBITDA | 🔜 Next |
+| 02 | **Myntra** | Fashion / Retail | Return rate has crossed 35% this quarter — margin is under pressure | High return rate eroding net revenue · fulfilment cost per returned unit directly impacts EBITDA | ✅ Complete  |
 | 03 | **Flipkart** | E-commerce | GMV is up during Big Billion Days but net revenue margin is shrinking | Discount depth vs incremental revenue trade-off · seller commission compression risk | 🔜 Planned |
 | 04 | **Uber** | Ride-hailing | Driver supply is down 22% in Tier-2 cities — surge pricing is hurting retention | Take rate vs driver earnings balance · rider churn from repeated surge pricing events | 🔜 Planned |
 | 05 | **Meesho** | Social Commerce | Monthly Active Resellers dropped 18% despite total GMV holding steady | Reseller LTV compression · top-heavy GMV concentration risk in supplier base | 🔜 Planned |
